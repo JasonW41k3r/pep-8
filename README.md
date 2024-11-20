@@ -24,7 +24,7 @@ PEP 8 是 Python 编码风格指南的第 8 号提案，全称为 *Style Guide f
 ## 使用说明
 
 1. **下载文档**  
-   在仓库中找到并下载文件：[PEP 8.html](https://github.com/JasonW41k3r/pep-8-zh_cn/blob/main/PEP%208.html)。
+   在仓库中找到并下载文件：[pep-8.html](https://github.com/JasonW41k3r/pep-8-zh_cn/blob/main/pep-8.html)。
 
 2. **打开方式**  
    使用任意浏览器打开下载的 HTML 文件，即可查看该翻译后的 PEP 8 文档。
